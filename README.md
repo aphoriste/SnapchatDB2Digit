@@ -11,5 +11,5 @@ Usage
 990 = YYY <br/>
 ZZ  = ZZ <br/>
 
-`python2 script.py XXXYYYZZ`
+`python2 script.py XXXYYYZZ` <br/>
 `python2 script.py 61099022`
