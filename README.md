@@ -7,8 +7,9 @@ Using FInd-Friends Exploit by GibsonSec we find the missing last 2 digits of a p
 Usage
 =====
 
-610 = XXX \\
-990 = YYY \\
-ZZ  = 22 \\
+610 = XXX <br/>
+990 = YYY <br/>
+ZZ  = ZZ <br/>
 
 `python2 script.py XXXYYYZZ`
+`python2 script.py 61099022`
